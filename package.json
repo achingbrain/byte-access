@@ -1,15 +1,15 @@
 {
-  "name": "uint8arraylist-accessor",
+  "name": "byte-access",
   "version": "0.0.0",
   "description": "Access data in Uint8ArrayLists and Uint8Arrays in a uniform way",
   "license": "Apache-2.0 OR MIT",
-  "homepage": "https://github.com/achingbrain/uint8arraylist-accessor#readme",
+  "homepage": "https://github.com/achingbrain/byte-access#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achingbrain/uint8arraylist-accessor.git"
+    "url": "git+https://github.com/achingbrain/byte-access.git"
   },
   "bugs": {
-    "url": "https://github.com/achingbrain/uint8arraylist-accessor/issues"
+    "url": "https://github.com/achingbrain/byte-access/issues"
   },
   "engines": {
     "node": ">=16.0.0",

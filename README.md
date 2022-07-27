@@ -1,7 +1,7 @@
-# uint8arraylist-accessor <!-- omit in toc -->
+# byte-access <!-- omit in toc -->
 
-[![codecov](https://img.shields.io/codecov/c/github/achingbrain/uint8arraylist-accessor.svg?style=flat-square)](https://codecov.io/gh/achingbrain/uint8arraylist-accessor)
-[![CI](https://img.shields.io/github/workflow/status/libp2p/js-libp2p-interfaces/test%20&%20maybe%20release/master?style=flat-square)](https://github.com/achingbrain/uint8arraylist-accessor/actions/workflows/js-test-and-release.yml)
+[![codecov](https://img.shields.io/codecov/c/github/achingbrain/byte-access.svg?style=flat-square)](https://codecov.io/gh/achingbrain/byte-access)
+[![CI](https://img.shields.io/github/workflow/status/achingbrain/byte-access/test%20&%20maybe%20release/master?style=flat-square)](https://github.com/achingbrain/byte-access/actions/workflows/js-test-and-release.yml)
 
 > Access data in Uint8ArrayLists and Uint8Arrays in a uniform way
 
@@ -15,14 +15,14 @@
 ## Install
 
 ```console
-$ npm i uint8arraylist-accessor
+$ npm i byte-access
 ```
 
 ## Usage
 
 ```js
 import { Uint8ArrayList } from 'uint8arraylist'
-import accessor from 'uint8arraylist-accessor'
+import accessor from 'byte-access'
 
 // access Uint8Array data
 const array = Uint8Array.from([0, 1, 2, 3, 4])

@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/achingbrain/byte-access/compare/v1.0.0...v1.0.1) (2022-07-28)
+
+
+### Dependencies
+
+* update uint8arraylist to 2.x ([#2](https://github.com/achingbrain/byte-access/issues/2)) ([7a4e78a](https://github.com/achingbrain/byte-access/commit/7a4e78a87d2d0b862fc4424653d7e4f80869c9ed))
+
 ## 1.0.0 (2022-07-27)
 
 

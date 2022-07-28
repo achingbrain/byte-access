@@ -1,6 +1,6 @@
 {
   "name": "byte-access",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access data in Uint8ArrayLists and Uint8Arrays in a uniform way",
   "license": "Apache-2.0 OR MIT",
   "homepage": "https://github.com/achingbrain/byte-access#readme",
